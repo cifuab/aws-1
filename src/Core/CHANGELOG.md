@@ -2,10 +2,13 @@
 
 ## NOT RELEASED
 
+## 1.22.1
+
 ### Changed
 
 - Enable compiler optimization for the `sprintf` function.
 - Avoid calls to spl_object_ methods when computing cache key.
+- Added SimpleMockedResponse to response of ResultMockFactory.
 
 ## 1.22.0
 
